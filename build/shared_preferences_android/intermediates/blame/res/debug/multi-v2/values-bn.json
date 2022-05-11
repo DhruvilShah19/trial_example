@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\trial_example\\build\\shared_preferences_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dhrumil\\.gradle\\caches\\transforms-2\\files-2.1\\53835e3b1015986ec0df60c17ec694b5\\core-1.6.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\trial_example\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dhrumil\\.gradle\\caches\\transforms-2\\files-2.1\\53835e3b1015986ec0df60c17ec694b5\\core-1.6.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

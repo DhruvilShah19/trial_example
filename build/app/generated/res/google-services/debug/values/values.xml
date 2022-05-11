@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">771802294764-6r8lpqt3bq9fpe7p5um3dqqpfv3q2k5n.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://contact-d7290.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">771802294764</string>
+    <string name="google_api_key" translatable="false">AIzaSyArNxM0B7xsY1OZrx7V1dZPGlFyI8c2c_0</string>
+    <string name="google_app_id" translatable="false">1:771802294764:android:838eb436779bc1db9778c9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArNxM0B7xsY1OZrx7V1dZPGlFyI8c2c_0</string>
+    <string name="google_storage_bucket" translatable="false">contact-d7290.appspot.com</string>
+    <string name="project_id" translatable="false">contact-d7290</string>
+</resources>
